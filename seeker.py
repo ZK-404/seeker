@@ -79,8 +79,7 @@ from signal import SIGTERM
 def banner():
 	with open(META_FILE, 'r') as metadata:
 		json_data = loads(metadata.read())
-		twitter_url = json_data['twitter']
-		comms_url = json_data['comms']
+		facebook_url = json_data['facebook']
 
 	art = r'''
 /$$$$$$$$ /$$                   /$$   /$$  /$$$$$$  /$$   /$$
