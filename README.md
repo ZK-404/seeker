@@ -1,15 +1,10 @@
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
 
 <p align="center">
-    <a href="https://twitter.com/thewhiteh4t">
-      <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
+    <a href="https://www.facebook.com/zin.ko.love15">
+    &nbsp;
     </a>
     &nbsp;
-    <a href="https://twc1rcle.com/">
-      <img src="https://img.shields.io/badge/-THE WHITE CIRCLE-black?logo=&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://thewhiteh4t.github.io/">
+    <a href="https://github.com/ZK-404/seeker/">
       <img src="https://img.shields.io/badge/-BLOG-black?logo=dialogflow&style=for-the-badge">
     </a>
 </p>
@@ -18,7 +13,6 @@
   <br>
   <b>Available in</b>
   <br>
-  <img src="https://i.imgur.com/1wJVDV5.png">
 </p>
 
 <p>
@@ -28,8 +22,7 @@
   <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#usage">
     <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-  <a href="https://github.com/thewhiteh4t/seeker#demo">
-    <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
+  <a href="https://github.com/ZK-404/seeker#demo">
   </a>
 </p>
 
@@ -99,7 +92,7 @@ Available Templates :
 ### Kali Linux / Arch Linux / Ubuntu / Parrot OS / Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/ZK-404/seeker
 cd seeker/
 chmod +x install.sh
 ./install.sh
@@ -119,7 +112,7 @@ docker pull thewhiteh4t/seeker
 
 ### OSX
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/ZK-404/seeker
 cd seeker/
 python3 seeker.py
 ````
@@ -188,9 +181,3 @@ ssh -R 80:localhost:8080 nokey@localhost.run
 as an alterntive to ngrok
 
 ## Demo
-
-**YouTube**
-
-<a href="https://youtu.be/Q91cTFwIvLc">
-  <img src="https://i3.ytimg.com/vi/Q91cTFwIvLc/maxresdefault.jpg">
-</a>
