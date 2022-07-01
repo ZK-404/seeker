@@ -39,7 +39,7 @@ LOG_FILE = f'{path_to_script}/logs/php.log'
 TEMP_KML = f'{path_to_script}/template/sample.kml'
 DATA_FILE = f'{path_to_script}/db/results.csv'
 META_FILE = f'{path_to_script}/metadata.json'
-META_URL = 'https://raw.githubusercontent.com/thewhiteh4t/seeker/master/metadata.json'
+META_URL = 'https://raw.githubusercontent.com/ZK-404/seeker/master/metadata.json'
 
 
 def chk_update():
@@ -93,9 +93,8 @@ def banner():
 |________/|__/|__/  |__/              |__/ \______/       |__                                            >'''
 	print(f'{G}{art}{W}\n')
 	print(f'{G}[>] {C}Created By   : {W}ZIN KO KO')
-	print(f'{G} |---> {C}Twitter   : {W}{Facebook_url}')
+	print(f'{G} |--->{C}Facebook   : {W}{facebook_url}')
 	print(f'{G}[>] {C}Version      : {W}{VERSION}\n')
-
 
 def template_select(site):
 	print(f'{Y}[!] Select a Template :{W}\n')
